@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hyochanchong
-- 👀 I’m interested in machine learning, deep learning and Mexican food
+- 👀 I’m interested in machine learning and deep learning
 - 🌱 I’m currently learning about deep learning
 
 <!---
